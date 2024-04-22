@@ -1,3 +1,6 @@
+body{
+  background-color: hsla(140, 18%, 26%, 0.921);
+}
 .App {
   text-align: center;
 }
