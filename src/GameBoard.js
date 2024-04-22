@@ -1432,10 +1432,10 @@ const GameBoard = ({ onGameRunningChange }) => {
                 </div>
             </div>}
         
-        <GameHistory
+        {/* <GameHistory
             gameResultsCount={gameResultsCount}
             gameRoundsHistory={gameRoundsHistory}
-        />
+        /> */}
         <div id="container">
         <Header
             playerHandValue={playerHandValue}
@@ -1611,9 +1611,9 @@ const GameBoard = ({ onGameRunningChange }) => {
             playerChips={playerChips}
             />
         </div>
-        <GameRecap
+        {/* <GameRecap
             gameResultsCount={gameResultsCount}
-        />
+        /> */}
        </>
     );
 };

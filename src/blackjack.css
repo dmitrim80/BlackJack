@@ -18,8 +18,8 @@ body{
   background-position: center;
   display: flex;
   justify-content:center;
-  width: 720px;
-  height: 605px;
+  width: 380px;
+  height: 600px;
   overflow: hidden; 
   border: 1px ridge #d4af37;
   border-radius: 10px;
